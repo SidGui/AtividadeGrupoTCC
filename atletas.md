@@ -1,2 +1,2 @@
 # Melhores atletas
-<nome>
+Álvaro Struble
